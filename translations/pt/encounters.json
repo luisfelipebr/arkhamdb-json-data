@@ -29,7 +29,7 @@
     },
     {
         "code": "agents_of_cthulhu",
-        "name": "Agents of Cthulhu"
+        "name": "Agentes de Cthulhu"
     },
     {
         "code": "agents_of_dagon",
@@ -37,7 +37,7 @@
     },
     {
         "code": "agents_of_hastur",
-        "name": "Agents of Hastur"
+        "name": "Agentes de Hastur"
     },
     {
         "code": "agents_of_hydra",
@@ -49,7 +49,7 @@
     },
     {
         "code": "agents_of_shub",
-        "name": "Agents of Shub-Niggurath"
+        "name": "Agentes de Shub-Niggurath"
     },
     {
         "code": "agents_of_the_outside",
@@ -57,7 +57,7 @@
     },
     {
         "code": "agents_of_the_unknown",
-        "name": "Agents of the Unknown"
+        "name": "Agentes do Desconhecido"
     },
     {
         "code": "agents_of_yig",
@@ -65,7 +65,7 @@
     },
     {
         "code": "agents_of_yog",
-        "name": "Agents of Yog-Sothoth"
+        "name": "Agentes de Yog-Sothoth"
     },
     {
         "code": "agents_of_yuggoth",
@@ -81,7 +81,7 @@
     },
     {
         "code": "ancient_evils",
-        "name": "Ancient Evils"
+        "name": "Males Anciães"
     },
     {
         "code": "anettes_coven",
@@ -89,7 +89,7 @@
     },
     {
         "code": "arkham",
-        "name": "The Midnight Masks"
+        "name": "As Máscaras da Meia-Noite"
     },
     {
         "code": "armitages_fate",
@@ -177,7 +177,7 @@
     },
     {
         "code": "chilling_cold",
-        "name": "Chilling Cold"
+        "name": "Frio Aterrador"
     },
     {
         "code": "chilling_mists",
@@ -193,7 +193,7 @@
     },
     {
         "code": "city_of_the_elder_things",
-        "name": "City of the Elder Things"
+        "name": "Cidade dos Seres Ancestrais"
     },
     {
         "code": "cleanup_crew",
@@ -209,7 +209,7 @@
     },
     {
         "code": "creatures_in_the_ice",
-        "name": "Creatures in the Ice"
+        "name": "Criaturas no Gelo"
     },
     {
         "code": "creatures_of_the_deep",
@@ -237,7 +237,7 @@
     },
     {
         "code": "cultists",
-        "name": "Cult of Umôrdhoth"
+        "name": "O Devorador das Profundezas"
     },
     {
         "code": "curtain_call",
@@ -265,7 +265,7 @@
     },
     {
         "code": "deadly_weather",
-        "name": "Deadly Weather"
+        "name": "Clima Mortal"
     },
     {
         "code": "dealings_in_the_dark",
@@ -333,7 +333,7 @@
     },
     {
         "code": "elder_things",
-        "name": "Elder Things"
+        "name": "Seres Ancestrais"
     },
     {
         "code": "epic_multiplayer",
@@ -361,7 +361,7 @@
     },
     {
         "code": "expedition_team",
-        "name": "Expedition Team"
+        "name": "Equipe de Expedição"
     },
     {
         "code": "extracurricular_activity",
@@ -373,7 +373,7 @@
     },
     {
         "code": "fatal_mirage",
-        "name": "Fatal Mirage"
+        "name": "Miragem Fatal"
     },
     {
         "code": "flood",
@@ -397,7 +397,7 @@
     },
     {
         "code": "ghouls",
-        "name": "Ghouls"
+        "name": "Carniçais"
     },
     {
         "code": "ghouls_of_umôrdhoth",
@@ -425,7 +425,7 @@
     },
     {
         "code": "hazards_of_antarctica",
-        "name": "Hazards of Antarctica"
+        "name": "Perigos Antárticos"
     },
     {
         "code": "heart_of_the_elders",
@@ -445,7 +445,7 @@
     },
     {
         "code": "ice_and_death",
-        "name": "Ice and Death"
+        "name": "Gelo e Morte"
     },
     {
         "code": "impending_evils",
@@ -481,15 +481,15 @@
     },
     {
         "code": "left_behind",
-        "name": "Left Behind"
+        "name": "Deixados para Trás"
     },
     {
         "code": "locked_doors",
-        "name": "Locked Doors"
+        "name": "Portas Trancadas"
     },
     {
         "code": "lost_in_the_night",
-        "name": "Lost in the Night"
+        "name": "Perdidos na Noite"
     },
     {
         "code": "lost_in_time_and_space",
@@ -497,7 +497,7 @@
     },
     {
         "code": "machinations_through_time",
-        "name": "Machinations Through Time"
+        "name": "Maquinações Através do Tempo"
     },
     {
         "code": "maddening_delusions",
@@ -509,7 +509,7 @@
     },
     {
         "code": "memorials_of_the_lost",
-        "name": "Memorials of the Lost"
+        "name": "Em Memória dos Perecidos"
     },
     {
         "code": "merging_realities",
@@ -537,7 +537,7 @@
     },
     {
         "code": "nameless_horrors",
-        "name": "Nameless Horrors"
+        "name": "Horrores Inomináveis"
     },
     {
         "code": "naomis_crew",
@@ -549,7 +549,7 @@
     },
     {
         "code": "nightgaunts",
-        "name": "Nightgaunts"
+        "name": "Noctétricos"
     },
     {
         "code": "on_thin_ice",
@@ -561,11 +561,11 @@
     },
     {
         "code": "penguins",
-        "name": "Penguins"
+        "name": "Pinguins"
     },
     {
         "code": "pentagram",
-        "name": "Dark Cult"
+        "name": "Culto Sombrio"
     },
     {
         "code": "pillars_of_judgment",
@@ -589,7 +589,7 @@
     },
     {
         "code": "rats",
-        "name": "Rats"
+        "name": "Ratos"
     },
     {
         "code": "read_or_die",
@@ -817,7 +817,7 @@
     },
     {
         "code": "seeping_nightmares",
-        "name": "Seeping Nightmares"
+        "name": "Pesadelos Infiltrantes"
     },
     {
         "code": "serpents",
@@ -845,7 +845,7 @@
     },
     {
         "code": "silence_and_mystery",
-        "name": "Silence and Mystery"
+        "name": "Silêncio e Mistério"
     },
     {
         "code": "silver_twilight_lodge",
@@ -881,7 +881,7 @@
     },
     {
         "code": "stirring_in_the_deep",
-        "name": "Stirring in the Deep"
+        "name": "Agitação nas Profundezas"
     },
     {
         "code": "strange_happenings",
@@ -893,7 +893,7 @@
     },
     {
         "code": "striking_fear",
-        "name": "Striking Fear"
+        "name": "Medo Avassalador"
     },
     {
         "code": "swarm_of_assimilation",
@@ -933,7 +933,7 @@
     },
     {
         "code": "the_crash",
-        "name": "The Crash"
+        "name": "A Queda"
     },
     {
         "code": "the_depths_of_yoth",
@@ -949,11 +949,11 @@
     },
     {
         "code": "the_great_seal",
-        "name": "The Great Seal"
+        "name": "O Grande Selo"
     },
     {
         "code": "the_heart_of_madness",
-        "name": "The Heart of Madness"
+        "name": "O Coração da Loucura"
     },
     {
         "code": "the_house_always_wins",
@@ -1021,11 +1021,11 @@
     },
     {
         "code": "to_the_forbidden_peaks",
-        "name": "To the Forbidden Peaks"
+        "name": "Para os Picos Proibidos"
     },
     {
         "code": "torch",
-        "name": "The Gathering"
+        "name": "A Assembleia"
     },
     {
         "code": "trapped_spirits",

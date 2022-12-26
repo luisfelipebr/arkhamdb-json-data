@@ -1,10 +1,10 @@
 [
     {
         "code": "basicweakness",
-        "name": "Basic Weakness"
+        "name": "Fraqueza Básica"
     },
     {
         "code": "weakness",
-        "name": "Weakness"
+        "name": "Fraqueza"
     }
 ]

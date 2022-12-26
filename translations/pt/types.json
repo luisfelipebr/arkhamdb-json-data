@@ -1,7 +1,7 @@
 [
     {
         "code": "act",
-        "name": "Act"
+        "name": "Ato"
     },
     {
         "code": "agenda",
@@ -9,38 +9,38 @@
     },
     {
         "code": "asset",
-        "name": "Asset"
+        "name": "Ativo"
     },
     {
         "code": "enemy",
-        "name": "Enemy"
+        "name": "Inimigo"
     },
     {
         "code": "event",
-        "name": "Event"
+        "name": "Evento"
     },
     {
         "code": "investigator",
-        "name": "Investigator"
+        "name": "Investigador"
     },
     {
         "code": "location",
-        "name": "Location"
+        "name": "Local"
     },
     {
         "code": "scenario",
-        "name": "Scenario"
+        "name": "Cenário"
     },
     {
         "code": "skill",
-        "name": "Skill"
+        "name": "Perícia"
     },
     {
         "code": "story",
-        "name": "Story"
+        "name": "História"
     },
     {
         "code": "treachery",
-        "name": "Treachery"
+        "name": "Traição"
     }
 ]

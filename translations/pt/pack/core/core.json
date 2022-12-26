@@ -1,19 +1,19 @@
 [
     {
         "code": "01000",
-        "name": "Random Basic Weakness",
+        "name": "Fraqueza Básica Aleatória",
         "text": "This is a placeholder random basic weakness\n You can replace it with a specific weakness using the Special tab or click the random button to replace it with a random weakness from your collection.",
         "traits": ""
     },
     {
         "code": "01001",
-        "flavor": "Everything by the book: every \"i\" dotted, every \"t\" crossed. It has worked, until now.",
+        "flavor": "Tudo nos conformes: todos os pingos nos \"is\" e todos os \"ts\" cortados. Bem, isso tem funcionado até agora.",
         "name": "Roland Banks",
-        "subname": "The Fed",
-        "text": "[reaction] After you defeat an enemy: Discover 1 clue at your location. (Limit once per round.)\n[elder_sign] effect: +1 for each clue on your location.",
-        "traits": "Agency. Detective.",
-        "back_flavor": "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand. Roland knew he would have to handle this one himself.",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Seeker cards ([seeker]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Roland's .38 Special, Cover Up, 1 random basic weakness."
+        "subname": "Agente Federal",
+        "text": "[reaction] Após você derrotar um inimigo: descrubra 1 pista em seu local (limite de uma vez por rodada).\n[elder_sign] efeito: +1 para cada pista em seu local.",
+        "traits": "Agência. Detetive.",
+        "back_flavor": "Roland sempre se sentiu confortável com procedimentos e regras. Como um agente na Organização, ele se apoiava nas diretrizes que precisava seguir em qualquer situação. Mas recentemente, seu Manual de Agente Federal tem sido completamente inútil, dados os casos que ele tem assumido. Por mais que tentasse, Roland não conseguia encontrar instruções sobre o que fazer quando confrontado por criaturas estranhas, portais interdimensionais ou magias.. Se ele não os tivesse visto com os próprios olhos, nunca teria acreditado... e seus superiores jamais entenderiam. Roland sabia que precisaria lidar com tudo isso sozinho.",
+        "back_text": "<b>Tamanho do baralho</b>: 30.\n<b>Opções de Construção de Baralho</b>: cartas de Guardião ([guardian]) de níveis 0-5, cartas de Buscador ([seeker]) de níveis 0-2, cartas Neutras de níveis 0-5.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): .38 Especial de Roland, Encobrir, 1 fraqueza básica aleatória."
     },
     {
         "code": "01002",
@@ -56,16 +56,16 @@
     },
     {
         "code": "01006",
-        "name": "Roland's .38 Special",
-        "text": "Roland Banks deck only.\nUses (4 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +1 [combat] for this attack (if there are 1 or more clues on your location, you get +3 [combat], instead). This attack deals +1 damage.",
-        "traits": "Item. Weapon. Firearm.",
-        "slot": "Hand"
+        "name": ".38 Especial de Roland",
+        "text": "Apenas no baralho de Roland Banks.\nUsa (4 munições).\n[action] Gaste 1 munição: <b>Lute.</b> Você recebe +1 [combat] neste ataque (se houver 1 ou mais pistas em seu local, em vez disso, você ganha +3 [combat]). Este ataque causa +1 de dano.",
+        "traits": "Item. Arma. Arma de Fogo.",
+        "slot": "Mão"
     },
     {
         "code": "01007",
-        "name": "Cover Up",
-        "text": "<b>Revelation</b> - Put Cover Up into play in your threat area, with 3 clues on it.\n[reaction] When you would discover 1 or more clues at your location: Discard that many clues from Cover Up instead.\n<b>Forced</b> - When the game ends, if there are any clues on Cover Up: You suffer 1 mental trauma.",
-        "traits": "Task."
+        "name": "Encobrir",
+        "text": "<b>Revelação</b> - Coloque Encobrir em jogo em sua área de ameaças, com 3 pistas sobre Encobrir.\n[reaction] Quando você for descobrir 1 ou mais pistas em seu local: em vez disso, descarte a mesma quantidade de pistas de Encobrir.\n<b>Forçado</b> - Quando o jogo terminar, se houver quaisquer pistas sobre Encobrir: você sofre 1 trauma mental.",
+        "traits": "Tarefa."
     },
     {
         "code": "01008",

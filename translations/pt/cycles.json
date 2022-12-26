@@ -1,15 +1,15 @@
 [
     {
         "code": "core",
-        "name": "Core"
+        "name": "Base"
     },
     {
         "code": "dwl",
-        "name": "The Dunwich Legacy"
+        "name": "O Legado de Dunwich"
     },
     {
         "code": "eoe",
-        "name": "Edge of the Earth"
+        "name": "Limiar da Terra"
     },
     {
         "code": "investigator",
@@ -25,7 +25,7 @@
     },
     {
         "code": "ptc",
-        "name": "The Path to Carcosa"
+        "name": "O Caminho para Carcosa"
     },
     {
         "code": "return",
@@ -45,7 +45,7 @@
     },
     {
         "code": "tfa",
-        "name": "The Forgotten Age"
+        "name": "A Era Esquecida"
     },
     {
         "code": "tic",
@@ -53,6 +53,6 @@
     },
     {
         "code": "tsk",
-        "name": "The Scarlet Keys"
+        "name": "As Chaves Escarlates"
     }
 ]

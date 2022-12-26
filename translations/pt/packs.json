@@ -65,15 +65,15 @@
     },
     {
         "code": "dwl",
-        "name": "The Dunwich Legacy"
+        "name": "O Legado de Dunwich"
     },
     {
         "code": "eoec",
-        "name": "Edge of the Earth Campaign Expansion"
+        "name": "Limiar da Terra (Expansão de Campanha)"
     },
     {
         "code": "eoep",
-        "name": "Edge of the Earth Investigator Expansion"
+        "name": "Limiar Da Terra (Expansão de Investigador)"
     },
     {
         "code": "eotp",
@@ -145,7 +145,7 @@
     },
     {
         "code": "mtt",
-        "name": "Machinations Through Time"
+        "name": "Maquinações Através do Tempo"
     },
     {
         "code": "nat",
@@ -161,11 +161,11 @@
     },
     {
         "code": "ptc",
-        "name": "The Path to Carcosa"
+        "name": "O Caminho para Carcosa"
     },
     {
         "code": "rcore",
-        "name": "Revised Core Set"
+        "name": "Jogo Base"
     },
     {
         "code": "rod",
@@ -241,7 +241,7 @@
     },
     {
         "code": "tfa",
-        "name": "The Forgotten Age"
+        "name": "A Era Esquecida"
     },
     {
         "code": "tftbw",
@@ -269,11 +269,11 @@
     },
     {
         "code": "tskc",
-        "name": "The Scarlet Keys Campaign Expansion"
+        "name": "As Chaves Escarlates (Expansão de Campanha)"
     },
     {
         "code": "tskp",
-        "name": "The Scarlet Keys Investigator Expansion"
+        "name": "As Chaves Escarlates (Expansão de Investigador)"
     },
     {
         "code": "tsn",

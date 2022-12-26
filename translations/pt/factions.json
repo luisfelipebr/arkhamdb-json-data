@@ -1,11 +1,11 @@
 [
     {
         "code": "guardian",
-        "name": "Guardian"
+        "name": "Guardião"
     },
     {
         "code": "mystic",
-        "name": "Mystic"
+        "name": "Místico"
     },
     {
         "code": "mythos",
@@ -13,18 +13,18 @@
     },
     {
         "code": "neutral",
-        "name": "Neutral"
+        "name": "Neutra"
     },
     {
         "code": "rogue",
-        "name": "Rogue"
+        "name": "Ladino"
     },
     {
         "code": "seeker",
-        "name": "Seeker"
+        "name": "Buscador"
     },
     {
         "code": "survivor",
-        "name": "Survivor"
+        "name": "Sobrevivente"
     }
 ]
