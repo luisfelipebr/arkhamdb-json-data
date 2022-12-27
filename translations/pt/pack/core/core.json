@@ -2,7 +2,7 @@
     {
         "code": "01000",
         "name": "Fraqueza Básica Aleatória",
-        "text": "This is a placeholder random basic weakness\n You can replace it with a specific weakness using the Special tab or click the random button to replace it with a random weakness from your collection.",
+        "text": "Este é um espaço reservado para uma fraqueza básica aleatória\n Você pode substituí-la por uma fraqueza específica usando a guia especial ou clicar no botão aleatório para substituí-la por uma fraqueza aleatória de sua coleção.",
         "traits": ""
     },
     {
@@ -17,42 +17,42 @@
     },
     {
         "code": "01002",
-        "flavor": "\"I know of books so powerful, they can rewrite reality.\"",
+        "flavor": "\"Conheço livros que, de tão poderosos, são capazes de reescrever a realidade.\"",
         "name": "Daisy Walker",
-        "subname": "The Librarian",
-        "text": "You may take an additional action during your turn, which can only be used on [[Tome]] [action] abilities.\n[elder_sign] effect: +0. If you succeed, draw 1 card for each [[Tome]] you control.",
+        "subname": "A Bibliotecária",
+        "text": "Você pode realizar uma ação adicional durante o seu turno; esta ação só pode ser usada em habilidades [action] de [[Tome]].\n[elder_sign] efeito: +0. Se você tiver sucesso, compre 1 carta para cada [[Tome]] que você controla.",
         "traits": "Miskatonic.",
-        "back_flavor": "As a respected librarian at Miskatonic University, Daisy had always felt that books were the most important thing in her life. She explored in fiction what she abhorred in life: horror, violence, fear. Then, she stumbled across the John Dee translation of the Necronomicon. It was blasphemous, unholy, and too awful to be read. But given her studies in obscure and occult subjects, Daisy knew there was more truth than fiction within the book's pages. She began to wonder what other secrets the restricted collection of the Orne Library held...",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Mystic cards ([mystic]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Daisy’s Tote Bag, The Necronomicon (John Dee Translation), 1 random basic weakness."
+        "back_flavor": "Como uma respeitada bibliotecária da Universidade de Miskatonic, Daisy sempre sentiu que os livros eram as coisas mais importantes de sua vida. Ela explorava na ficção aquilo que abominava na vida real: horror, violência e medo. Até que um dia se deparou com a tradução de John Dee do Necronomicon. Era blasfemo, profano e horrível demais para ser real. Mas devido aos seus conhecimentos sobre assuntos obscuros e ocultos, Daisy sabia que havia mais realidade do que ficção nas páginas daquele livro. Ela começou a se perguntar quais outros segredos habitavam na restrita coleção da Biblioteca Orne...",
+        "back_text": "<b>Tamanho do Baralho</b>: 30.\n<b>Opções de Construção de Baralho</b>: cartas de Buscador ([seeker]) de níveis 0-5, cartas de Místico ([mystic]) de níveis 0-2, cartas Neutras de níveis 0-5.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Bolsa de Daisy, O Necronomicon (Tradução de John Dee), 1 fraqueza básica aleatória."
     },
     {
         "code": "01003",
-        "flavor": "\"I didn't get out of the joint just to watch the world end.\"",
+        "flavor": "\"Eu não saí da prisão só pra ver o mundo acabar.\"",
         "name": "\"Skids\" O'Toole",
-        "subname": "The Ex-Con",
-        "text": "[free] During your turn, spend 2 resources: You may take an additional action this turn. (Limit once per turn.)\n[elder_sign] effect: +2. If you succeed, gain 2 resources.",
-        "traits": "Criminal.",
-        "back_flavor": "Skids hadn't planned on a life of crime. But sometimes doing the right thing means getting your hands dirty. The cops didn't care that Skids needed the money for his mother's operation. His mother died of her illness during the second year of his sentence. His cellmate, Brad Hollins, told him there were worse fates than death. He ranted and raved in a quiet voice every evening about the \"Old Ones\" and told Skids about bizarre adventures he'd had while dreaming. Skids didn't give it much thought until the night he woke to the sight of his cellmate bursting into flames. When Skids was finally released, he returned to Arkham, looking for answers.",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Guardian cards ([guardian]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): On the Lam, Hospital Debts, 1 random basic weakness."
+        "subname": "O Ex-Presidiário",
+        "text": "[free] Durante o seu turno, gaste 2 recursos: você pode realizar uma ação adicional neste turno (limite de uma vez por turno).\n[elder_sign] efeito: +2. Se você tiver sucesso, ganhe 2 recursos.",
+        "traits": "Criminoso.",
+        "back_flavor": "Skids não planejou uma vida no crime. Mas, às vezes, fazer a coisa certa significava ter que sujar as mãos. Os policiais não se importavam se Skids estava precisando de dinheiro para a cirurgia de sua mãe. Ela perdeu a batalha para a doença e morreu durante o segundo ano de Skids na prisão. Seu colega de cela, Brad Hollins, disse que havia coisas piores do que a morte. Todas as noites, ele reclamava e delirava em voz baixa sobre os \"Antigos\" e contava a Skids sobre bizarras aventuras que vivia enquanto dormia. Skids não deu muita atenção, até a noite em que acordou e viu seu colega de cela em chamas. Quando Skids finalmente saiu da prisão, ele voltou para Arkham em busca de respostas.",
+        "back_text": "<b>Tamanho do Baralho</b>: 30.\n<b>Opções de Construção de Baralho</b>: cartas de Ladino ([rogue]) de níveis 0-5, cartas de Guardião ([guardian]) de níveis 0-2, cartas Neutras de níveis 0-5.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Em Fuga, Dívidas de Hospital, 1 fraqueza básica aleatória."
     },
     {
         "code": "01004",
-        "flavor": "\"I remember another life, one of sorcery and conquest.\"",
+        "flavor": "\"Lembro-me de outra vida, repleta de feitiçaria e conquistas.\"",
         "name": "Agnes Baker",
-        "subname": "The Waitress",
-        "text": "[reaction] After 1 or more horror is placed on Agnes Baker: Deal 1 damage to an enemy at your location. (Limit once per phase.)\n[elder_sign] effect: +1 for each horror on Agnes Baker.",
-        "traits": "Sorcerer.",
-        "back_flavor": "Agnes Baker may be just an unassuming waitress in this life, but in a previous life, in a time and age undreamed of in the modern world, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\" The more she delved into the visions and memories of her former life, the stronger her powers grew... and the more frightened she became.",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Survivor cards ([survivor]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Heirloom of Hyperborea, Dark Memory, 1 random basic weakness."
+        "subname": "A Garçonete",
+        "text": "[reaction] Após 1 ou mais de horror serem colocados sobre Agnes Baker: cause 1 de dano a um inimigo em seu local (limite de uma vez por fase).\n[elder_sign] effect: +1 para cada horror em Agnes Baker.",
+        "traits": "Feiticeiro.",
+        "back_flavor": "Agnes Baker pode até ser uma despretenciosa garçonete nesta vida, mas em uma vida passada, em uma época esquecida pelo mundo moderno, ela foi uma poderosa bruxa. Começou quando ela encontrou um estranho artefato, um tipo de chave, em uma coleção empoeirada de pertences da família que estava no sótão de sua casa. Quando tocou o objeto, as memórias voltaram inundando sua mente com uma palavra: \"Hiperbórea\". Quanto mais ela explorava as visões e memórias de sua vida passada, mais seu poder aumentava... e mais apavorada ela ficava.",
+        "back_text": "<b>Tamanho do Baralho</b>: 30.\n<b>Opções de Construção de Baralho</b>: cartas de Místico ([mystic]) de níveis 0-5, cartas de Sobrevivente ([survivor]) de níveis 0-2, cartas Neutras de níveis 0-5.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Herança de Hiperbórea, Memórias Sombrias, 1 fraqueza básica aleatória."
     },
     {
         "code": "01005",
         "name": "Wendy Adams",
-        "subname": "The Urchin",
-        "text": "[reaction] When you reveal a chaos token, choose and discard 1 card from your hand: Cancel that chaos token and return it to the bag. Reveal a new chaos token. (Limit once per test/ability.)\n[elder_sign] effect: +0. If Wendy's Amulet is in play, you automatically succeed instead.",
-        "traits": "Drifter.",
-        "back_flavor": "Mama used to let Wendy play with her necklace when she was small. Mama would tell her stories, and Wendy would spin the necklace and watch as it glittered. Then, word came that her father had been lost at sea, and Mama started acting strange, drawing unusual symbols in chalk all over the house. They took Mama to the asylum, and Wendy went to the orphanage. Before they took her away, Mama gave her the necklace, to \"protect her.\" Wendy stayed in the orphanage for several years before running away, deciding that she could take better care of herself on her own.",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, Rogue cards ([rogue]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Wendy's Amulet, Abandoned and Alone, 1 random basic weakness."
+        "subname": "A Maltrapilha",
+        "text": "[reaction] Quando você revelar uma ficha de caos, escolha e descarte 1 carta da sua mão: cancele essa ficha de caos e devolva-a à bolsa. Revele uma nova ficha de caos (limite de uma vez por teste/habilidade).\n[elder_sign] efeito: +0. Se Amuleto de Wendy estiver em jogo, em vez disso, você tem sucesso automaticamente.",
+        "traits": "Andarilho.",
+        "back_flavor": "Mama costumava deixar Wendy brincar com seu colar quando ela era pequena. Ela contava histórias enquanto Wendy girava o colar e observava seu brilho. Então, chegou a notícia de que seu pai estava perdido no mar, e Mama começou a agir de moro estranho, desenhava símbolos esquisitos com giz por toda a casa. Eles levaram Mama para o asilo, e Wendy foi para o orfanato. Antes de a levarem embora, Mama entregou-lhe o colar, \"isso vai protegê-la\", ela disse. Wendy permaneceu no orfanato por vários anos antes de fugir, certa de que poderia tomar conta de si mesma melhor do que se ficasse por lá.",
+        "back_text": "<b>Tamanho do Baralho</b>: 30.\n<b>Regras de Construção de Baralho</b>: cartas de Sobrevivente ([survivor]) de níveis 0-5, cartas de Ladino ([rogue]) de níveis 0-2, cartas Neutras de níveis 0-5.\n<b>Requisitos de Construção de Baralho</b> (não contam para o tamanho do baralho): Amuleto de Wendy, Abandonada e Sozinha, 1 fraqueza básica aleatória."
     },
     {
         "code": "01006",
@@ -69,60 +69,60 @@
     },
     {
         "code": "01008",
-        "name": "Daisy's Tote Bag",
-        "text": "Daisy Walker deck only.\nYou have 2 additional hand slots, which can only be used to hold [[Tome]] assets.",
+        "name": "Bolsa de Daisy",
+        "text": "Apenas no baralho de Daisy Walker.\nVocê tem 2 espaços de mão adicionais, que podem ser usados apenas por ativos de [[Tome]].",
         "traits": "Item."
     },
     {
         "code": "01009",
-        "name": "The Necronomicon",
-        "subname": "John Dee Translation",
-        "text": "<b>Revelation</b> - Put The Necronomicon into play in your threat area, with 3 horror on it. It cannot leave play while it has 1 or more horror on it.\nTreat each [elder_sign] you reveal on a chaos token as a [auto_fail].\n[action]: Move 1 horror from The Necronomicon to Daisy Walker. Then, if The Necronomicon has no horror on it, discard it.",
-        "traits": "Item. Tome.",
-        "slot": "Hand"
+        "name": "O Necronomicon",
+        "subname": "Tradução de John Dee",
+        "text": "<b>Revelation</b> - Coloque O Necronomicon em jogo, em sua área de ameaças, com 3 de horror sobre ele. O Necronomicon não pode sair de jogo enquanto houver 1 ou mais de horror sobre ele.\nTrate cada [elder_sign] que você revelar em uma ficha de caos como se fosse [auto_fail].\n[action]: Mova 1 de horror de O Necronomicon para Daisy Walker. Então, se não houver horror sobre O Necronomicon, descarte O Necronomicon.",
+        "traits": "Item. Tomo.",
+        "slot": "Mão"
     },
     {
         "code": "01010",
-        "flavor": "I ain't going to the pen a second time.",
-        "name": "On the Lam",
-        "text": "\"Skids\" O'Toole deck only.\nFast. Play after your turn begins.\nUntil the end of the round, non-[[Elite]] enemies cannot attack you.",
-        "traits": "Tactic."
+        "flavor": "Não vou para o xadrez de novo.",
+        "name": "Em Fuga",
+        "text": "Apenas no baralho de \"Skids\" O'Toole.\nVeloz. Jogue após o seu turno começar.\nAté o fim da rodada, inimigos não [[Elite]] não podem atacá-lo.",
+        "traits": "Tática."
     },
     {
         "code": "01011",
-        "name": "Hospital Debts",
-        "text": "<b>Revelation</b> - Put Hospital Debts into play in your threat area.\n[free]: Move 1 resource from your resource pool to Hospital Debts. (Limit twice per round.)\n<b>Forced</b> - When the game ends, if Hospital Debts has fewer than 6 resources on it: You earn 2 fewer experience for this scenario.",
-        "traits": "Task."
+        "name": "Dívidas de Hospital",
+        "text": "<b>Revelação</b> - Coloque Dívidas de Hospital em jogo em sua área de ameaças.\n[free]: Mova 1 recurso da sua reserva de recursos para Dívidas de Hospital (limite de duas vezes por rodada).\n<b>Forçado</b> - Quando o jogo terminar, se houver menos que 6 recursos sobre Dívidas de Hospital: você ganha 2 de experiência a menos neste cenário.",
+        "traits": "Tarefa."
     },
     {
         "code": "01012",
-        "flavor": "The etchings on its surface change from day to day, shifting and moving whenever I'm not looking.",
-        "name": "Heirloom of Hyperborea",
-        "subname": "Artifact from Another Life",
-        "text": "Agnes Baker deck only.\n[reaction] After you play a [[Spell]] card: Draw 1 card.",
-        "traits": "Item. Relic.",
-        "slot": "Accessory"
+        "flavor": "As gravuras na superfície se alteram de um dia para o outro, e mudam de forma sempre que eu não estou olhando.",
+        "name": "Herança de Hiperbórea",
+        "subname": "Artefato de Outra Vida",
+        "text": "Apenas no baralho de Agnes Baker.\n[reaction] Após você jogar uma carta de [[Spell]]: compre 1 carta.",
+        "traits": "Item. Relíquia.",
+        "slot": "Acessório"
     },
     {
         "code": "01013",
-        "flavor": "No... not again!",
-        "name": "Dark Memory",
-        "text": "Place 1 doom on the current agenda. This effect may cause the current agenda to advance.\n<b>Forced</b> - If Dark Memory is in your hand at the end of your turn, reveal it and take 2 horror.",
-        "traits": "Spell."
+        "flavor": "Não... de novo não!",
+        "name": "Memórias Sombrias",
+        "text": "Coloque 1 perdição sobre a agenda atual. Este efeito pode fazer a agenda atual avançar.\n<b>Forçado</b> - Se Memórias Sombrias estiver na sua mão no fim do seu turno: revele-a e sofra 2 de horror.",
+        "traits": "Magia."
     },
     {
         "code": "01014",
-        "name": "Wendy's Amulet",
-        "text": "Wendy Adams deck only.\nYou may play the topmost event in your discard pile as if it were in your hand.\n<b>Forced</b> - After you play an event or discard an event from play: Place it on the bottom of your deck instead of in your discard pile.",
-        "traits": "Item. Relic.",
-        "slot": "Accessory"
+        "name": "Amuleto de Wendy",
+        "text": "Apenas no baralho de Wendy Adams.\nVocê pode jogar o evento do topo da sua pilha de descarte como se ele estivesse na sua mão.\n<b>Forçado</b> - Após você jogar um evento: coloque-o no fundo do seu baralho, em vez de na sua pilha de descarte.",
+        "traits": "Item. Relíquia.",
+        "slot": "Acessório"
     },
     {
         "code": "01015",
-        "flavor": "I don't need them. I don't need anyone.",
-        "name": "Abandoned and Alone",
-        "text": "<b>Revelation</b> - Take 2 direct horror and remove all cards in your discard pile from the game.",
-        "traits": "Madness."
+        "flavor": "Eu não preciso deles. Eu não preciso de ninguém.",
+        "name": "Abandonada e Sozinha",
+        "text": "<b>Revelação</b> - Sofra 2 de horror direto e remova do jogo todas as cartas da sua pilha de descarte.",
+        "traits": "Loucura."
     },
     {
         "code": "01016",
